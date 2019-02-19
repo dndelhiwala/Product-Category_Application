@@ -1,0 +1,16 @@
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\bin\Debug\netcoreapp2.1\FinalAngularApp.deps.json
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\bin\Debug\netcoreapp2.1\FinalAngularApp.runtimeconfig.json
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\bin\Debug\netcoreapp2.1\FinalAngularApp.runtimeconfig.dev.json
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\bin\Debug\netcoreapp2.1\FinalAngularApp.dll
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\bin\Debug\netcoreapp2.1\FinalAngularApp.pdb
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.csproj.CoreCompileInputs.cache
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.RazorAssemblyInfo.cache
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.RazorAssemblyInfo.cs
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.AssemblyInfoInputs.cache
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.AssemblyInfo.cs
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.RazorTargetAssemblyInfo.cache
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.dll
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.pdb
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.Properties.Resources.resources
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.csproj.GenerateResource.cache
+C:\Work\Deepa_Training\FinalAngularApp\FinalAngularApp\obj\Debug\netcoreapp2.1\FinalAngularApp.csprojAssemblyReference.cache
